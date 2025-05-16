@@ -7,7 +7,6 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  overflow: hidden;
   position: relative;
 }
 
@@ -27,7 +26,7 @@ body::before {
 }
 
 .container {
-  flex: 1 0 auto;  /* Grow and shrink but don't overflow */
+  flex: 1 1 auto;  /* Grow and shrink but don't overflow */
   width: 90%;
   max-width: 800px;
   margin: 50px auto 0 auto;
