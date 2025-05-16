@@ -2,6 +2,9 @@ body {
   background-color: #0d0d0d;
   color: #aaffaa;
   font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -24,13 +27,25 @@ body::before {
 }
 
 .container {
+  flex: 1 0 auto;  /* Grow and shrink but don't overflow */
   width: 90%;
   max-width: 800px;
-  margin: 50px auto;
+  margin: 50px auto 0 auto;
   background: rgba(0, 255, 0, 0.05);
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 20px #00ff00;
+  overflow-y: auto;  /* Scroll if content is tall */
+}
+
+footer {
+  flex-shrink: 0; /* Don't shrink */
+  text-align: center;
+  font-size: 0.9em;
+  color: #559955;
+  padding: 15px 0;
+  background-color: #081008;
+  box-shadow: inset 0 1px 3px #00ff00aa;
 }
 
 h1 {
