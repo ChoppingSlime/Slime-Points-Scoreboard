@@ -2,12 +2,12 @@ body {
   background-color: #0d0d0d;
   color: #aaffaa;
   font-family: 'Courier New', Courier, monospace;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
   margin: 0;
   padding: 0;
   position: relative;
+  min-height: 100vh;
+  padding-bottom: 40px; /* height of footer */
+  overflow-y: auto;
 }
 
 body::before {
@@ -38,13 +38,27 @@ body::before {
 }
 
 footer {
-  flex-shrink: 0; /* Don't shrink */
-  text-align: center;
-  font-size: 0.9em;
-  color: #559955;
-  padding: 15px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 40px;
   background-color: #081008;
+  color: #559955;
+  text-align: center;
+  line-height: 40px;
   box-shadow: inset 0 1px 3px #00ff00aa;
+  font-size: 0.9em;
+  z-index: 10;
+}
+
+footer a {
+  color: #77ff77;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
 
 h1 {
