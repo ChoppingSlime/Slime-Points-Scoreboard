@@ -1,5 +1,5 @@
 async function loadData() {
-  const response = await fetch("data.json");
+  const response = await fetch("data.json?nocache=" + Date.now());
   const data = await response.json();
   const tbody = document.getElementById("table-body");
 
