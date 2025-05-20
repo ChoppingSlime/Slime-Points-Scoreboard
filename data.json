@@ -1,7 +1,7 @@
 [
   { "name": "Being Balatro", "points": 2601842 },
   { "name": "IO", "points": 1030168 },
-  { "name": "El viniador", "points": 50893 },
+  { "name": "El viniador", "points": 55093 },
   { "name": "Mario \"x\" De Angelis", "points": 20270 },
   { "name": "Steamlore", "points": 16501 },
   { "name": "MSI Katana", "points": 15000 },
@@ -16,13 +16,13 @@
   { "name": "Fadaniele", "points": 4500 },
   { "name": "Clippy", "points": 4064 },
   { "name": "Jonny joneve", "points": 3200 },
-  { "name": "Mars 🕷", "points": 8375 },
+  { "name": "Mars 🕷", "points": 8384.999999 },
   { "name": "Fabrizio Biagioli", "points": 2500 },
   { "name": "Sara", "points": 2400 },
   { "name": "Aemlacking", "points": 2100 },
-  { "name": "Lorenzo bloodborne", "points": 1500 },
+  { "name": "Lorenzo bloodborne", "points": 2200 },
   { "name": "Calamaro88", "points": 1200 },
-  { "name": "Andrea", "points": 3294 },
+  { "name": "Andrea", "points": 8294 },
   { "name": "Edoardo", "points": 1000 },
   { "name": "Grobi", "points": 999 },
   { "name": "Maya", "points": 738 },
@@ -47,7 +47,9 @@
   { "name": "Barbie", "points": -1500 },
   { "name": "Francesco El guapo", "points": -2500 },
   { "name": "Giamcoo", "points": -2250000 },
+  { "name": "Amon", "points": 5000 },
   { "name": "Ric utente nulla tenete", "points": -15996001 },
   { "name": "Peter palle", "points": 700 },
-  { "name": "Giuseppe Pirrota", "points": 78 }
+  { "name": "Samu", "points": 700 },
+  { "name": "Gabriele Cactus", "points": 700 }
 ]
