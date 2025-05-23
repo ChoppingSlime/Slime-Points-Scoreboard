@@ -5,14 +5,17 @@ async function loadData() {
 
   data.sort((a, b) => b.points - a.points);
 
-  data.forEach(entry => {
+  data.forEach((entry, index) => {
     const row = document.createElement("tr");
+    const positionCell = document.createElement("td");
     const nameCell = document.createElement("td");
     const pointsCell = document.createElement("td");
 
+    positionCell.textContent = index + 1; // Rank starts at 1
     nameCell.textContent = entry.name;
     pointsCell.textContent = entry.points;
 
+    row.appendChild(positionCell);
     row.appendChild(nameCell);
     row.appendChild(pointsCell);
     tbody.appendChild(row);
