@@ -1,60 +1,238 @@
 [
-  { "name": "Being Balatro", "points": 2601842 },
-  { "name": "IO", "points": 1030168 },
-  { "name": "El viniador", "points": 55093 },
-  { "name": "Mario \"x\" De Angelis", "points": 20270 },
-  { "name": "Steamlore", "points": 16501 },
-  { "name": "MSI Katana", "points": 15000 },
-  { "name": "Ylias", "points": 8000 },
-  { "name": "Jobin", "points": 7636 },
-  { "name": "Alberto Cocco", "points": 8608 },
-  { "name": "dannyell44y", "points": 12173 },
-  { "name": "Controego", "points": 5765 },
-  { "name": "Giuliozzz", "points": 5101 },
-  { "name": "Gian (skino)", "points": 9503 },
-  { "name": "Uomotelis", "points": 8400 },
-  { "name": "Fadaniele", "points": 14500 },
-  { "name": "Clippy", "points": 6764 },
-  { "name": "Jonny joneve", "points": 13200 },
-  { "name": "Mars 🕷", "points": 9614.999999 },
-  { "name": "Fabrizio Biagioli", "points": 2500 },
-  { "name": "Sara", "points": 2400 },
-  { "name": "Sara Satanasso", "points": 9999 },
-  { "name": "Aemlacking", "points": 2100 },
-  { "name": "Lorenzo bloodborne", "points": 2200 },
-  { "name": "Calamaro88", "points": 1200 },
-  { "name": "Andrea", "points": 8294 },
-  { "name": "Edoardo", "points": 1000 },
-  { "name": "Grobi", "points": 999 },
-  { "name": "Maya", "points": -2262 },
-  { "name": "Trilobox", "points": 12690 },
-  { "name": "Aurelio", "points": 420 },
-  { "name": "Miao miao susina miao", "points": 400 },
-  { "name": "Nicola V", "points": 1027 },
-  { "name": "Nessuno", "points": 273 },
-  { "name": "Fendro", "points": 69 },
-  { "name": "Simone Luba", "points": 1515 },
-  { "name": "Damiano Martini", "points": 13 },
-  { "name": "Giorgio", "points": 13 },
-  { "name": "Barbara", "points": 1 },
-  { "name": "Dario Moccia", "points": 0.52 },
-  { "name": "franliu", "points": 0.1 },
-  { "name": "Giovanni Bruno", "points": null },
-  { "name": "Ale", "points": -2 },
-  { "name": "Argomanto", "points": -2 },
-  { "name": "Carmelo Simone C.", "points": -172 },
-  { "name": "Daniele Leone", "points": 2 },
-  { "name": "Teo", "points": -600 },
-  { "name": "Barbie", "points": -1500 },
-  { "name": "Francesco El guapo", "points": 4000 },
-  { "name": "Giamcoo", "points": -848800 },
-  { "name": "Amon", "points": 5000 },
-  { "name": "Ric utente nulla tenete", "points": -15996001 },
-  { "name": "Peter palle", "points": 700 },
-  { "name": "Samu", "points": 850 },
-  { "name": "Gabriele Cactus", "points": 700 },
-  { "name": "Marco", "points": 1340 },
-  { "name": "Sapone", "points": 5800 },
-  { "name": "Francio", "points": 219 },
-  { "name": "Sigghe", "points": -200 }
+  {
+    "name": "Being Balatro",
+    "points": 2601842
+  },
+  {
+    "name": "IO",
+    "points": 1030168
+  },
+  {
+    "name": "El viniador",
+    "points": 55093
+  },
+  {
+    "name": "Mario \"x\" De Angelis",
+    "points": 20270
+  },
+  {
+    "name": "Steamlore",
+    "points": 16501
+  },
+  {
+    "name": "MSI Katana",
+    "points": 15000
+  },
+  {
+    "name": "Fadaniele",
+    "points": 14500
+  },
+  {
+    "name": "Jonny joneve",
+    "points": 13200
+  },
+  {
+    "name": "Trilobox",
+    "points": 12690
+  },
+  {
+    "name": "dannyell44y",
+    "points": 12173
+  },
+  {
+    "name": "Sara Satanasso",
+    "points": 9999
+  },
+  {
+    "name": "Mars 🕷",
+    "points": 9614.999999
+  },
+  {
+    "name": "Gian (skino)",
+    "points": 9503
+  },
+  {
+    "name": "Alberto Cocco",
+    "points": 8608
+  },
+  {
+    "name": "Uomotelis",
+    "points": 8400
+  },
+  {
+    "name": "Andrea",
+    "points": 8294
+  },
+  {
+    "name": "Ylias",
+    "points": 8000
+  },
+  {
+    "name": "Jobin",
+    "points": 7636
+  },
+  {
+    "name": "Clippy",
+    "points": 6764
+  },
+  {
+    "name": "Sapone",
+    "points": 5800
+  },
+  {
+    "name": "Controego",
+    "points": 5765
+  },
+  {
+    "name": "Giuliozzz",
+    "points": 5101
+  },
+  {
+    "name": "Amon",
+    "points": 5000
+  },
+  {
+    "name": "Francesco El guapo",
+    "points": 4000
+  },
+  {
+    "name": "Fabrizio Biagioli",
+    "points": 2500
+  },
+  {
+    "name": "Sara",
+    "points": 2400
+  },
+  {
+    "name": "Lorenzo bloodborne",
+    "points": 2200
+  },
+  {
+    "name": "Aemlacking",
+    "points": 2100
+  },
+  {
+    "name": "Simone Luba",
+    "points": 1515
+  },
+  {
+    "name": "Marco",
+    "points": 1340
+  },
+  {
+    "name": "Calamaro88",
+    "points": 1200
+  },
+  {
+    "name": "Nicola V",
+    "points": 1027
+  },
+  {
+    "name": "Edoardo",
+    "points": 1000
+  },
+  {
+    "name": "Grobi",
+    "points": 999
+  },
+  {
+    "name": "Samu",
+    "points": 850
+  },
+  {
+    "name": "Peter palle",
+    "points": 700
+  },
+  {
+    "name": "Gabriele Cactus",
+    "points": 700
+  },
+  {
+    "name": "Aurelio",
+    "points": 420
+  },
+  {
+    "name": "Miao miao susina miao",
+    "points": 400
+  },
+  {
+    "name": "Nessuno",
+    "points": 273
+  },
+  {
+    "name": "Francio",
+    "points": 219
+  },
+  {
+    "name": "Fendro",
+    "points": 69
+  },
+  {
+    "name": "Damiano Martini",
+    "points": 13
+  },
+  {
+    "name": "Giorgio",
+    "points": 13
+  },
+  {
+    "name": "Slime",
+    "points": 5
+  },
+  {
+    "name": "Daniele Leone",
+    "points": 2
+  },
+  {
+    "name": "Barbara",
+    "points": 1
+  },
+  {
+    "name": "Dario Moccia",
+    "points": 0.52
+  },
+  {
+    "name": "franliu",
+    "points": 0.1
+  },
+  {
+    "name": "Giovanni Bruno",
+    "points": null
+  },
+  {
+    "name": "Ale",
+    "points": -2
+  },
+  {
+    "name": "Argomanto",
+    "points": -2
+  },
+  {
+    "name": "Carmelo Simone C.",
+    "points": -172
+  },
+  {
+    "name": "Sigghe",
+    "points": -200
+  },
+  {
+    "name": "Teo",
+    "points": -600
+  },
+  {
+    "name": "Barbie",
+    "points": -1500
+  },
+  {
+    "name": "Maya",
+    "points": -2262
+  },
+  {
+    "name": "Giamcoo",
+    "points": -848800
+  },
+  {
+    "name": "Ric utente nulla tenete",
+    "points": -15996001
+  }
 ]
