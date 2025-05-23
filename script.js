@@ -1,9 +1,15 @@
+let currentData = [];
+
 async function loadData() {
   const response = await fetch("data.json?nocache=" + Date.now());
-  const data = await response.json();
-  const tbody = document.getElementById("table-body");
+  currentData = await response.json();
+  currentData.sort((a, b) => b.points - a.points);
+  renderTable(currentData);
+}
 
-  data.sort((a, b) => b.points - a.points);
+function renderTable(data) {
+  const tbody = document.getElementById("table-body");
+  tbody.innerHTML = ""; // Clear previous rows
 
   data.forEach((entry, index) => {
     const row = document.createElement("tr");
@@ -11,7 +17,7 @@ async function loadData() {
     const nameCell = document.createElement("td");
     const pointsCell = document.createElement("td");
 
-    positionCell.textContent = index + 1; // Rank starts at 1
+    positionCell.textContent = index + 1;
     nameCell.textContent = entry.name;
     pointsCell.textContent = entry.points;
 
@@ -24,17 +30,18 @@ async function loadData() {
 
 let sortAsc = true;
 function sortTable(columnIndex) {
-  const table = document.getElementById("scoreboard");
-  const rows = Array.from(table.rows).slice(1);
-  const compare = (a, b) => {
-    const valA = a.cells[columnIndex].textContent;
-    const valB = b.cells[columnIndex].textContent;
-    if (columnIndex === 1) return sortAsc ? valA - valB : valB - valA;
-    return sortAsc ? valA.localeCompare(valB) : valB.localeCompare(valA);
-  };
-  rows.sort(compare);
-  rows.forEach(row => table.appendChild(row));
+  const key = columnIndex === 1 ? "name" : "points";
+  currentData.sort((a, b) => {
+    if (key === "name") {
+      return sortAsc
+        ? a.name.localeCompare(b.name)
+        : b.name.localeCompare(a.name);
+    } else {
+      return sortAsc ? a.points - b.points : b.points - a.points;
+    }
+  });
   sortAsc = !sortAsc;
+  renderTable(currentData); // Re-render to update ranks
 }
 
 loadData();
