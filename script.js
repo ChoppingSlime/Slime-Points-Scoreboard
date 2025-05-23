@@ -28,20 +28,4 @@ function renderTable(data) {
   });
 }
 
-let sortAsc = true;
-function sortTable(columnIndex) {
-  const key = columnIndex === 1 ? "name" : "points";
-  currentData.sort((a, b) => {
-    if (key === "name") {
-      return sortAsc
-        ? a.name.localeCompare(b.name)
-        : b.name.localeCompare(a.name);
-    } else {
-      return sortAsc ? a.points - b.points : b.points - a.points;
-    }
-  });
-  sortAsc = !sortAsc;
-  renderTable(currentData); // Re-render to update ranks
-}
-
 loadData();
