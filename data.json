@@ -25,7 +25,7 @@
   },
   {
     "name": "MSI Katana",
-    "points": 15000
+    "points": 16040
   },
   {
     "name": "Fadaniele",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Sara Satanasso",
-    "points": 10249
+    "points": 10292
   },
   {
     "name": "Mars",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Clippy",
-    "points": 6764
+    "points": 8778
   },
   {
     "name": "Sapone",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Francesco El guapo",
-    "points": 4000
+    "points": 4750
   },
   {
     "name": "Fabrizio Biagioli",
@@ -121,19 +121,19 @@
   },
   {
     "name": "Calamaro88",
-    "points": 1200
+    "points": 2405.3
   },
   {
     "name": "Edoardo",
     "points": 1000
   },
   {
-    "name": "Grobi",
-    "points": 999
+    "name": "Grobbi",
+    "points": 1099
   },
   {
     "name": "Samu",
-    "points": 850
+    "points": 10846
   },
   {
     "name": "Peter palle",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Gabriele Cactus",
-    "points": 700
+    "points": 3250
   },
   {
     "name": "Aurelio",
@@ -165,7 +165,7 @@
   },
   {
     "name": "Fendro",
-    "points": 69
+    "points": 1269
   },
   {
     "name": "Nicola V",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Daniele Leone",
-    "points": 2
+    "points": 1002
   },
   {
     "name": "Barbara",
@@ -238,5 +238,33 @@
   {
     "name": "Ric utente nulla tenete",
     "points": -15996001
+  },
+  {
+    "name": "Angelo",
+    "points": 12
+  },
+  {
+    "name": "Sapo",
+    "points": 4269
+  },
+  {
+    "name": "Diego monsneagu",
+    "points": 5400
+  },
+  {
+    "name": "ricky_",
+    "points": 750
+  },
+  {
+    "name": "Maxi formato",
+    "points": -21
+  },
+  {
+    "name": "Legoshi",
+    "points": 12.927
+  },
+  {
+    "name": "Mirko",
+    "points": 3000
   }
 ]
