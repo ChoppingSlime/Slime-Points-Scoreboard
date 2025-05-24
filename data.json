@@ -12,20 +12,28 @@
     "points": 55093
   },
   {
+    "name": "dannyell44y",
+    "points": 24346
+  },
+  {
     "name": "Mario \"x\" De Angelis",
     "points": 20270
+  },
+  {
+    "name": "Clippy",
+    "points": 17556
   },
   {
     "name": "Steamlore",
     "points": 16501
   },
   {
-    "name": "Jonny joneve",
-    "points": 15200
-  },
-  {
     "name": "MSI Katana",
     "points": 16040
+  },
+  {
+    "name": "Jonny joneve",
+    "points": 15200
   },
   {
     "name": "Fadaniele",
@@ -33,11 +41,15 @@
   },
   {
     "name": "Trilobox",
-    "points": 12690
+    "points": 12990
   },
   {
-    "name": "dannyell44y",
-    "points": 24346
+    "name": "Controego",
+    "points": 11530
+  },
+  {
+    "name": "Samu",
+    "points": 10846
   },
   {
     "name": "Gian (skino)",
@@ -72,16 +84,12 @@
     "points": 7636
   },
   {
-    "name": "Clippy",
-    "points": 17556
-  },
-  {
     "name": "Sapone",
     "points": 5800
   },
   {
-    "name": "Controego",
-    "points": 11530
+    "name": "Diego monsneagu",
+    "points": 5400
   },
   {
     "name": "Giuliozzz",
@@ -96,8 +104,24 @@
     "points": 4750
   },
   {
+    "name": "Sapo",
+    "points": 4269
+  },
+  {
+    "name": "Gabriele Cactus",
+    "points": 3250
+  },
+  {
+    "name": "Mirko",
+    "points": 3000
+  },
+  {
     "name": "Fabrizio Biagioli",
     "points": 2500
+  },
+  {
+    "name": "Calamaro88",
+    "points": 2405.3
   },
   {
     "name": "Sara",
@@ -120,28 +144,28 @@
     "points": 1340
   },
   {
-    "name": "Calamaro88",
-    "points": 2405.3
-  },
-  {
-    "name": "Edoardo",
-    "points": 1000
+    "name": "Fendro",
+    "points": 1269
   },
   {
     "name": "Grobbi",
     "points": 1099
   },
   {
-    "name": "Samu",
-    "points": 10846
+    "name": "Daniele Leone",
+    "points": 1002
+  },
+  {
+    "name": "Edoardo",
+    "points": 1000
+  },
+  {
+    "name": "ricky_",
+    "points": 750
   },
   {
     "name": "Peter palle",
     "points": 700
-  },
-  {
-    "name": "Gabriele Cactus",
-    "points": 3250
   },
   {
     "name": "Aurelio",
@@ -164,10 +188,6 @@
     "points": 100
   },
   {
-    "name": "Fendro",
-    "points": 1269
-  },
-  {
     "name": "Nicola V",
     "points": 27
   },
@@ -180,12 +200,16 @@
     "points": 13
   },
   {
-    "name": "slime",
-    "points": 4
+    "name": "Legoshi",
+    "points": 12.927
   },
   {
-    "name": "Daniele Leone",
-    "points": 1002
+    "name": "Angelo",
+    "points": 12
+  },
+  {
+    "name": "slime",
+    "points": 4
   },
   {
     "name": "Barbara",
@@ -210,6 +234,10 @@
   {
     "name": "Argomanto",
     "points": -2
+  },
+  {
+    "name": "Maxi formato",
+    "points": -21
   },
   {
     "name": "Carmelo Simone C.",
@@ -238,33 +266,5 @@
   {
     "name": "Ric utente nulla tenete",
     "points": -15996001
-  },
-  {
-    "name": "Angelo",
-    "points": 12
-  },
-  {
-    "name": "Sapo",
-    "points": 4269
-  },
-  {
-    "name": "Diego monsneagu",
-    "points": 5400
-  },
-  {
-    "name": "ricky_",
-    "points": 750
-  },
-  {
-    "name": "Maxi formato",
-    "points": -21
-  },
-  {
-    "name": "Legoshi",
-    "points": 12.927
-  },
-  {
-    "name": "Mirko",
-    "points": 3000
   }
 ]
