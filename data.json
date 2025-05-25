@@ -220,10 +220,6 @@
     "points": 12
   },
   {
-    "name": "slime",
-    "points": 4
-  },
-  {
     "name": "Barbara",
     "points": 1
   },
@@ -246,6 +242,10 @@
   {
     "name": "Argomanto",
     "points": -2
+  },
+  {
+    "name": "slime",
+    "points": -6
   },
   {
     "name": "Maxi formato",
