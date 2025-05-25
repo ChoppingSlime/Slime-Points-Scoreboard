@@ -220,6 +220,10 @@
     "points": 12
   },
   {
+    "name": "Ale",
+    "points": 10
+  },
+  {
     "name": "Barbara",
     "points": 1
   },
@@ -234,10 +238,6 @@
   {
     "name": "Giovanni Bruno",
     "points": null
-  },
-  {
-    "name": "Ale",
-    "points": -2
   },
   {
     "name": "Argomanto",
