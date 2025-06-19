@@ -16,28 +16,28 @@
     "points": 85293
   },
   {
-    "name": "Sara Satanasso",
-    "points": 43089
-  },
-  {
     "name": "Trilobox",
     "points": 47340
   },
   {
-    "name": "controego",
-    "points": 33062.42999999999
+    "name": "Sara Satanasso",
+    "points": 43089
+  },
+  {
+    "name": "Mars",
+    "points": 38265.999999
   },
   {
     "name": "Jonny joneve",
     "points": 34700
   },
   {
-    "name": "Favs",
-    "points": 14700
+    "name": "controego",
+    "points": 33062.42999999999
   },
   {
-    "name": "Mars",
-    "points": 38265.999999
+    "name": "Alberto Cocco",
+    "points": 30608
   },
   {
     "name": "Calamaro88",
@@ -60,6 +60,10 @@
     "points": 16040
   },
   {
+    "name": "Favs",
+    "points": 14700
+  },
+  {
     "name": "Fadaniele",
     "points": 14500
   },
@@ -76,10 +80,6 @@
     "points": 8610
   },
   {
-    "name": "Alberto Cocco",
-    "points": 30608
-  },
-  {
     "name": "Andrea",
     "points": 8494
   },
@@ -88,12 +88,24 @@
     "points": 8400
   },
   {
+    "name": "Giamcoo",
+    "points": 8380
+  },
+  {
     "name": "Ylias",
     "points": 8000
   },
   {
     "name": "Jobin",
     "points": 7636
+  },
+  {
+    "name": "Gisagiata",
+    "points": 7500
+  },
+  {
+    "name": "Domenico",
+    "points": 7500
   },
   {
     "name": "Marco",
@@ -120,10 +132,6 @@
     "points": 5146
   },
   {
-    "name": "Offar",
-    "points": 4146
-  },
-  {
     "name": "Giuliozzz",
     "points": 5101
   },
@@ -142,6 +150,10 @@
   {
     "name": "ale luna",
     "points": 4200
+  },
+  {
+    "name": "Offar",
+    "points": 4146
   },
   {
     "name": "Mirko",
@@ -194,14 +206,6 @@
   {
     "name": "ricky_",
     "points": 750
-  },
-  {
-    "name": "Peter Parker",
-    "points": -15000000000
-  },
-  {
-    "name": "Gisagiata",
-    "points": 7500
   },
   {
     "name": "Peter palle",
@@ -312,11 +316,11 @@
     "points": -3400
   },
   {
-    "name": "Giamcoo",
-    "points": 8380
-  },
-  {
     "name": "Ric utente nulla tenete",
     "points": -15996001
+  },
+  {
+    "name": "Peter Parker",
+    "points": -15000000000
   }
 ]
